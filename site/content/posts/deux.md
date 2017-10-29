@@ -1,7 +1,5 @@
 ---
-title: "Deux"
-date: 2017-10-28T19:45:11+02:00
-draft: false
+title: Deux
+date: 2017-10-28T17:45:11.000Z
 ---
-
-Article 2
+Article 2. Modification pour test..
