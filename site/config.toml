@@ -19,7 +19,7 @@ theme = "hugo_theme_pickles"
   authorwebsite = "example.com"
   avatar = "/images/avatar.jpg"
   # contact = "Your contact link (ex. mailto:foo@example.com)"
-  bio = "FRONT-END / CREATIVE DEVELOPER, design, typography, photography, minimalism. Former intern at @mashvp."
+  bio = "FRONT-END / CREATIVE DEVELOPER."
   # Short subtitle/tagline. This is displayed in the header.
   subtitle = "Short subtitle"
   # Logo image. This is displayed ogp image.
