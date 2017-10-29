@@ -1,4 +1,4 @@
-# Victor Hugo
+# Test Sample Site with Victor Hugo
 
 **A Hugo boilerplate for creating truly epic websites**
 
